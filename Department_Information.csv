@@ -1,0 +1,41 @@
+dip_code,dip_name,Capacity,fees,Colleges
+10001,Aerospace Engineering,100000,50000,1000
+10002,Biosciences and Bioengineering,101000,50500,500
+10003,Chemical Engineering,102000,51000,900
+10004,Chemistry,103000,51500,111
+10005,Civil Engineering,104000,52000,223
+10006,Computer Science & Engineering,105000,52500,321
+10007,Earth Sciences,106000,53000,234
+10008,Electrical Engineering,107000,53500,556
+10009,Energy Science and Engineering,108000,54000,75
+10010,Humanities & Social Science,109000,54500,435
+10011,Mathematics,110000,55000,532
+10012,Mechanical Engineering,111000,55500,455
+10013,Metallurgical Engineering & Materials Science,112000,56000,256
+10014,Physics,113000,56500,453
+10015,Industrial Design Centre,114000,57000,54
+10016,Application Software Centre (ASC),115000,57500,636
+10017,Centre for Research in Nanotechnology and Science (CRNTS),116000,58000,553
+10018,Centre for Aerospace Systems Design and Engineering (CASDE),117000,58500,56
+10019,Computer Centre (CC),118000,59000,643
+10020,Centre for Distance Engineering Education Programme (CDEEP),119000,59500,500
+10021,Centre for Environmental Science and Engineering (CESE),120000,60000,900
+10022,Centre for Policy Studies (CPS),121000,60500,111
+10023,Centre of Studies in Resources Engineering (CSRE),122000,61000,223
+10024,Centre for Technology Alternatives for Rural Areas (CTARA),123000,61500,321
+10025,Centre for Formal Design and Verification of Software (CFDVS),124000,62000,234
+10026,Centre for Urban Science and Engineering (C-USE),125000,62500,556
+10027,Centre for Entrepreneurship (DSCE),126000,63000,75
+10028,ABC-EDS Research Academy,127000,63500,435
+10029,National Centre for Aerospace Innovation and Research (NCAIR),128000,64000,532
+10030,National Center of Excellence in Technology for Internal Security (NCETIS),129000,64500,455
+10031,National Centre for Mathematics (NCM),130000,65000,256
+10032,Center for Learning and Teaching (PPCCLT),131000,65500,453
+10033,Sophisticated Analytical Instrument Facility (SAIF),132000,66000,54
+10034,Technology and Design (TCTD),133000,66500,636
+10035,Centre for Bioengineering (WRCB),134000,67000,553
+10036,School of Management,135000,67500,56
+10037,Climate Studies,136000,68000,643
+10038,Educational Technology,137000,68500,643
+10039,Industrial Engineering and Operations Research (IEOR),138000,69000,63
+10040,Systems and Control Engineering,139000,69500,663
